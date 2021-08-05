@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @kikkipedia
-- 👀 I’m interested in pretty much everything, especially JavaScript
-- 🌱 I’m currently learning Node.js
 
 
 <!---
