@@ -1,6 +1,6 @@
 👋 Hi, I’m kikkipedia
 
-I like to do JavaScript and Java fot fun
+I like to do JavaScript and Java for fun
 
 
 <!---
