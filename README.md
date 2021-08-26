@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @kikkipedia
+👋 Hi, I’m kikkipedia
+
+I like to do JavaScript and Java fot fun
 
 
 <!---
